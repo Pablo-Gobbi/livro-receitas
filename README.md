@@ -2,6 +2,7 @@
 
 Olá, bem-vinde ao meu livro de receitas :wave:
 
-- qualquer
-- uauauauau
-
+- Torta
+- Pavê
+- Boli
+- Macarronada
